@@ -1,0 +1,10 @@
+[package]
+name = "calculer"
+version = "0.1.0"
+edition = "2021"
+authors = ["Roy Wu"]
+repository = "https://github.com/r9w/calculer"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
