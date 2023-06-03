@@ -2,9 +2,10 @@
 name = "calculer"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
 authors = ["Roy Wu"]
 repository = "https://github.com/r9w/calculer"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
+description = """
+Calculer -- CLI for SuanShu lib
+"""
 [dependencies]
